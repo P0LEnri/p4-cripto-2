@@ -1,0 +1,3 @@
+archivo de colaborador 2
+este es otro feature
+que arregla un error
